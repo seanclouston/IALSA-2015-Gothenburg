@@ -20,6 +20,9 @@ The project pursues to estimate the impact of the transition into **RETIREMENT**
 
 ## News & Announcements
  - newcomes to GitHub, please familiarize yourself with the principles of [statistical collaboration with GitHub](http://htmlpreview.github.io/?https://raw.githubusercontent.com/OuhscBbmc/StatisticalComputing/master/2014_Presentations/05_May/BeasleyScugGitHub2014-05.html), read about [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/), and explore the philosophy and resources of [reproducible research](https://github.com/OuhscBbmc/RedcapExamplesAndPatterns/blob/master/DocumentationGlobal/ResourcesOpinions.md), the standards of which we aim to uphold. 
+ - please [register an account with GitHub]((https://github.com/login), if you haven't done already, and join [IALSA](https://github.com/IALSA) organization. Please, email [Andrey][mailto:andkov@uvic.ca] your github username and I will add you to the project's team, so you can start edit the documents published in this repository. 
+ - please explore [github issues](https://github.com/IALSA/IALSA-2015-Gothenburg/issues), they will be the primary way to organize collaboration and trace the progress.  
+ - in order to maximize the efficiency of communication, please [disable update notifications](news.md#How-to-Disable-update-notification) after you've opted to have  this repository "watched" 
  
  
 ## Background
