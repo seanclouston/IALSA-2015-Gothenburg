@@ -7,9 +7,9 @@ The project pursues to estimate the impact of the transition into retirement on 
 
 | Study | Contact |
 | :---- | :------ |
-| [HRS](link) | [Clouston](mailto:email) |
+| [HRS](link) | [Clouston](mailto:Sean.Clouston@stonybrookmedicine.edu) |
 | [SHARE](link) | [Lindwall](mailto:email) |
-| [ELSA](link) | [Muniz](mailto:email) |
+| [ELSA](link) | [Muniz](mailto:gm299@cam.ac.uk) |
 | [SATSA](link) | [Johansson](mailto:email) |
 | [GAZEL](link) | [Singh-Manoux](mailto:email) |
 | [GSOEP](link) | [Name](mailto:email) |
