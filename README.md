@@ -20,9 +20,9 @@ The project pursues to estimate the impact of the transition into **RETIREMENT**
 
 ## News & Announcements
  - newcomes to GitHub, please familiarize yourself with the principles of [statistical collaboration with GitHub](http://htmlpreview.github.io/?https://raw.githubusercontent.com/OuhscBbmc/StatisticalComputing/master/2014_Presentations/05_May/BeasleyScugGitHub2014-05.html), read about [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/), and explore the philosophy and resources of [reproducible research](https://github.com/OuhscBbmc/RedcapExamplesAndPatterns/blob/master/DocumentationGlobal/ResourcesOpinions.md), the standards of which we aim to uphold. 
- - please [register an account with GitHub]((https://github.com/login), if you haven't done already, and join [IALSA](https://github.com/IALSA) organization. Please, email [Andrey][mailto:andkov@uvic.ca] your github username and I will add you to the project's team, so you can start edit the documents published in this repository. 
- - please explore [github issues](https://github.com/IALSA/IALSA-2015-Gothenburg/issues), they will be the primary way to organize collaboration and trace the progress.  
- - in order to maximize the efficiency of communication, please [disable update notifications](news.md#How-to-Disable-update-notification) after you've opted to have  this repository "watched" 
+ - please [register an account with GitHub](https://github.com/login), if you haven't done already, and join [IALSA](https://github.com/IALSA) organization. Please, [email us](mailto:andkov@uvic.ca) your github username to be added to the project's team, so you can start editing the documents published in this repository. 
+ - please explore [github issues](https://github.com/IALSA/IALSA-2015-Gothenburg/issues), they will be the primary way to organize our collaboration and trace the progress of this project.  
+ - in order to maximize the efficiency of communication, please [disable update notifications](news.md#How-to-Disable-update-notification) after you've starting "watching" this repository.  
  
  
 ## Background
@@ -31,8 +31,9 @@ The project pursues to estimate the impact of the transition into **RETIREMENT**
 
  - Finkel, D., Andel, R., Gatz, M., & Pedersen, N. L. (2009). The role of occupational complexity in trajectories of cognitive aging before and after retirement. *Psychology and Aging*, 24(3), 563-573. [Read me][5]  
  - Hultsch, D. F., Hertzog, C., Small, B. J., & Dixon, R. A. (1999). Use it or lose it: Engaged lifestyle as a buffer of cognitive decline in aging? *Psychology and Aging*, 14(2), 245. [Read me][2]   
- - Lusardi, A., & Mitchell, O. S. (2007). Baby Boomer retirement security: The roles of planning, financial literacy, and housing wealth. *Journal of Monetary Economics*, 54(1), 205-224. [Read me][4]  
- - Rohwedder, S., & Willis, R. J. (2010). Mental Retirement. *Journal of Economic Perspectives*, 24(1), 119-138. [Read me][1]  - Scarmeas, N., & Stern, Y. (2003). Cognitive reserve and lifestyle. *Journal of Clinical and Experimental Neuropsychology*, 25(5), 625-633.  [Read me][3]  
+ - Lusardi, A., & Mitchell, O. S. (2007). Baby Boomer retirement security: The roles of planning, financial literacy, and housing wealth. *Journal of Monetary Economics*, 54(1), 205-224. [Read me][4]    
+ - Rohwedder, S., & Willis, R. J. (2010). Mental Retirement. *Journal of Economic Perspectives*, 24(1), 119-138. [Read me][1]   
+ - Scarmeas, N., & Stern, Y. (2003). Cognitive reserve and lifestyle. *Journal of Clinical and Experimental Neuropsychology*, 25(5), 625-633.  [Read me][3]   
  
 ### Thanks to Funders
 IALSA is funded through an NIH/NIA Program Project Grant ([P01AG043362](http://projectreporter.nih.gov/project_info_description.cfm?aid=8414933&icde=18870651&ddparam=&ddvalue=&ddsub=&cr=3&csb=default&cs=ASC); 2013-2018) to Oregon Health & Science University (Program Directors: [Scott Hofer](http://www.ialsa.org/users/hofer), [Andrea Piccinin](http://www.ialsa.org/users/piccinin), [Jeffrey Kaye](http://www.ialsa.org/users/kaye), and [Diana Kuh](http://www.ialsa.org/users/kuh)) and previously funded by NIH/NIA ([R01AG026453](http://projectreporter.nih.gov/project_info_description.cfm?aid=7210005&icde=19139556&ddparam=&ddvalue=&ddsub=&cr=5&csb=default&cs=ASC); 2007-2013) and CIHR (103284; 2010-2013).  
