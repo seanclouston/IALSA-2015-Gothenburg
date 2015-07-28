@@ -10,35 +10,31 @@ The **OBJECTIVE** of the workshop is to
 > develop a strategy for implementing a multi-study replication of the statistical analyses that evaluates this impact.   
 
 
-## Foundation
+## Overview
 
-**Retirement** is a complex construct. We can begin conceptualizing it by recognizing the following observations:   
- - people who retire are of a specific **social class** since they are those, generally, who have jobs from which they are not being fired and that are stable but they have made a choice to leave because of a lack of financial need to work. This the stereotypical, but in fact, a small, group.  
- - those who retire are usually engaged in some kinds of activities, though not always, and those activities may include things like bridge jobs or new jobs that are just as **active**. As a result, a substantial proportion of people who tell you that they retire are working again within 5 years   
- - retirement is often conceptualized as not working when older, where in fact many people who were outside of the labor force just **age out** into “retirement”   
- - some people who are fired from a job or let go at say 50 years old, then spend a lot of time **unemployed**, cannot find new employment and then just start calling themselves “retired”    
+
+The proposed strategy identifies the following milestones:
+
+ - **Milestone 0** : conceptual model of retirement is defined and operationalized in HRS data. The metric of retirement contains a small number of exhaustive and mutually exclusive categories. Each of these categories (values on the retirement trajectory) describes individual's relationship with the workforce at that moment in time. Tidy data tracking individuals' transitions between categories over time is assembled from the raw databank of the study.  
  
-These and other nuances of the retirement construct require the analytic strategy to account for the **progression of individuals through a series of states that describe their relationship with the workforce**, or **retirement trajectory**, as I suggest we call them for short. Once developed, the metrics of retirement trajectory will constitude the pivot of multi-study replication. 
+ - **Milestone 1**: Transition data is explored with Markov Chain / Random Walks model. The matrix of transitions shows the population dynamics. Examining the prevalences of and transitions among categories 1) verifies that the conceptual model selected during M0 makes sense in the context of the observed data and 2) forms the basis for the inuition about latent classes, which will be explored with latent transition analysis in Milstone 2.
+ 
+- **Milstone 2**: Retirement trajectories are explored with Latent Transition Analysis (Collins & Lanza, 2010, section 7.4, p.196). Retirement transitions are clustered into latent classes according to the similarity of temporal pattern. Observed pattern from M1 and emergent groupings from LTA lead to formation of reference groups to be compared with respect to their cognitive decline, physical functioning, and well-being. (This comparison is intended to be replicated over studies.)
 
-### Retirement metrics
+- **Milestone 3**: Cognitive, physical, and well-being measures are analyzed with Bivariate Growth Curve Model in conjuncture with latent structures from M2. BGCM serves as a precursor to piecewise model to be developed in M4 and sets a meaningful reference point. Rough temporal pattern of the outcome emerge. Threats to statistical conclusion validity are identified. Revision of M2 as necessary. 
 
 
-####OW - Outside Workforce
-
-####UN - Unemployed
-
-####EM - Employed
-
-####RA - Retired Active
-
-####RP - Retired Passive
+- **Milestone 4**: Cognitive, physical, and well-being measures are analyed with Piecewise BGCM in conjuncture with latent structures from M2. We anticipate the failure of M3 to address all relevant threats to validity due to nonlinear dynamics associated with a specific temporal point of retirement.  The most appropriate piecewise function is identified.  As in M3, results involve comparison of reference groups defined in M2. Revision of M2 and/or M3 as necessary.
 
 
 
-The analytic strategy will shape the list of variables we need to extact from individual studies. 
+The models on which we settle at Milestone 4 will be replicated across studies.  
 
-### Milestone 0: Retirement Transitions
+Such cascading roadmap affords flexibility in manuvering through pivotal decisions. For example, different answers to the following two questions implies structural changes in the subsequent milestones.  
+- how many exhaustive & exclusive categories should retirement measure contain? (M0)  
+- how many refernce groups is sufficient to capture the complexity of retirement dynamics? (M2) 
+The system of dynamic reporting will allow us to explore these possibilities with relative ease. 
 
-#### Conceptualize and Categorize Retirement
 
-#### Operationalize with available data
+Conceptualizing of retirement  as movement among defined categories is explored in the report [conceputal models of retirement](./reports/conceptual_models_retirement.md)
+
