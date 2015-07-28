@@ -36,5 +36,5 @@ Such cascading roadmap affords flexibility in manuvering through pivotal decisio
 The system of dynamic reporting will allow us to explore these possibilities with relative ease. 
 
 
-Conceptualizing of retirement  as movement among defined categories is explored in the report [conceptual models of retirement](../reports/conceptual_models_retirement.md)  
+Conceptualizing retirement  as movement among defined categories is explored in the report [conceptual models of retirement](../reports/conceptual_models_retirement.md)  
 
