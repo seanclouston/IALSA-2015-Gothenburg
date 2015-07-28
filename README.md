@@ -25,7 +25,9 @@ The project pursues to estimate the impact of the transition into **RETIREMENT**
  - in order to maximize the efficiency of communication, please [disable update notifications](news.md#How-to-Disable-update-notification) after you've started "watching" this repository.  
 
 ## Contents
- - developing the [analytic strategy](architecture/analytic_strategy.md)
+ - developing the [analytic strategy](architecture/analytic_strategy.md)  
+ - developing the [conceptual models of retirement](reports/conceptual_models_retirement.md)  
+ 
  
 ## Background
  
