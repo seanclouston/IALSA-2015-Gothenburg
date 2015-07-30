@@ -30,11 +30,15 @@ The proposed strategy identifies the following milestones:
 
 The models on which we settle at Milestone 4 will be replicated across studies.  
 
-Such cascading roadmap affords flexibility in manuvering through pivotal decisions. For example, different answers to the following two questions implies structural changes in the subsequent milestones.  
-- how many exhaustive & exclusive categories should retirement measure contain? (M0)  
-- how many refernce groups is sufficient to capture the complexity of retirement dynamics? (M2) 
+Such cascading roadmap affords flexibility in manuvering through pivotal decisions. For example, different answers to the following  questions imply structural changes in the subsequent milestones:    
+- how many exhaustive & exclusive categories should retirement measure contain? (M0)   
+- what should these categories be? (M0)  
+- how many refernce groups is sufficient to capture the complexity of retirement dynamics? (M2)   
 The system of dynamic reporting will allow us to explore these possibilities with relative ease. 
 
 
-Conceptualizing retirement  as movement among defined categories is explored in the report [conceptual models of retirement](../reports/conceptual_models_retirement.md)  
+Conceptualizing retirement  as transitions among defined categories is explored in the report [conceptual models of retirement](../reports/conceptual_models_retirement.md)  
+
+Basic data preparation of [RAND HRS files](https://github.com/IALSA/HRS/tree/master/data) is traced in a dedicated repository.  
+
 
