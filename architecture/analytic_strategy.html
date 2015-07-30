@@ -67,19 +67,20 @@ img {
 <p>The workshop <strong>AIMS</strong> to design the methodology with which to &gt; estimate the impact of the transition into retirement on subsequent cognitive decline, physical functioning, and well-being as compared to remaining in work, remaining unemployed, or remaining outside the labour force.</p>
 <p>The <strong>OBJECTIVE</strong> of the workshop is to &gt; develop a strategy for implementing a multi-study replication of the statistical analyses that evaluates this impact.</p>
 </div>
-<div id="foundation" class="section level2">
-<h2>Foundation</h2>
-<p>Retirement is a complex construct. We can begin by recognizing the following observations:<br /> - people who retire are of a specific social class since they are those, generally, who have jobs from which they are not being fired and that are stable but they have made a choice to leave because of a lack of financial need to work<br /> - those who retire are usually engaged in some kinds of activities, though not always, and those activities may include things like bridge jobs or new jobs that are just as active - as a result, a substantial proportion of people who tell you that they retire are working again within 5 years<br /> - retirement is often conceptualized as not working when older, where in fact many people who were unemployable just age out into “retirement” but in fact never worked<br /> - some people who are fired from a job or let go at say 50 years old, then spend a lot of time looking for employment but basically don’t find it and then just start to call themselves “retired”</p>
-<p>The analytic strategy will shape the list of variables we need to extact from individual studies.</p>
-<div id="milestone-0-retirement-transitions" class="section level3">
-<h3>Milestone 0: Retirement Transitions</h3>
-<div id="conceptualize-and-categorize-retirement" class="section level4">
-<h4>Conceptualize and Categorize Retirement</h4>
-</div>
-<div id="operationalize" class="section level4">
-<h4>Operationalize</h4>
-</div>
-</div>
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<p>The proposed strategy identifies the following milestones:</p>
+<ul>
+<li><p><strong>Milestone 0</strong> : conceptual model of retirement is defined and operationalized in HRS data. The metric of retirement contains a small number of exhaustive and mutually exclusive categories. Each of these categories (values on the retirement trajectory) describes individual’s relationship with the workforce at that moment in time. Tidy data tracking individuals’ transitions between categories over time is assembled from the raw databank of the study.</p></li>
+<li><p><strong>Milestone 1</strong>: Transition data is explored with Markov Chain / Random Walks model. The matrix of transitions shows the population dynamics. Examining the prevalences of and transitions among categories 1) verifies that the conceptual model selected during M0 makes sense in the context of the observed data and 2) forms the basis for the inuition about latent classes, which will be explored with latent transition analysis in Milstone 2.</p></li>
+<li><p><strong>Milstone 2</strong>: Retirement trajectories are explored with Latent Transition Analysis (Collins &amp; Lanza, 2010, section 7.4, p.196). Retirement transitions are clustered into latent classes according to the similarity of temporal pattern. Observed pattern from M1 and emergent groupings from LTA lead to formation of reference groups to be compared with respect to their cognitive decline, physical functioning, and well-being. (This comparison is intended to be replicated over studies.)</p></li>
+<li><p><strong>Milestone 3</strong>: Cognitive, physical, and well-being measures are analyzed with Bivariate Growth Curve Model in conjuncture with latent structures from M2. BGCM serves as a precursor to piecewise model to be developed in M4 and sets a meaningful reference point. Rough temporal pattern of the outcome emerge. Threats to statistical conclusion validity are identified. Revision of M2 as necessary.</p></li>
+<li><p><strong>Milestone 4</strong>: Cognitive, physical, and well-being measures are analyed with Piecewise BGCM in conjuncture with latent structures from M2. We anticipate the failure of M3 to address all relevant threats to validity due to nonlinear dynamics associated with a specific temporal point of retirement. The most appropriate piecewise function is identified. As in M3, results involve comparison of reference groups defined in M2. Revision of M2 and/or M3 as necessary.</p></li>
+</ul>
+<p>The models on which we settle at Milestone 4 will be replicated across studies.</p>
+<p>Such cascading roadmap affords flexibility in manuvering through pivotal decisions. For example, different answers to the following questions imply structural changes in the subsequent milestones:<br />- how many exhaustive &amp; exclusive categories should retirement measure contain? (M0)<br />- what should these categories be? (M0)<br />- how many refernce groups is sufficient to capture the complexity of retirement dynamics? (M2)<br />The system of dynamic reporting will allow us to explore these possibilities with relative ease.</p>
+<p>Conceptualizing retirement as transitions among defined categories is explored in the report <a href="../blob/master/reports/conceptual_models_retirement.md">conceptual models of retirement</a></p>
+<p>Basic data preparation of <a href="https://github.com/IALSA/HRS/tree/master/data">RAND HRS files</a> is traced in a dedicated repository.</p>
 </div>
 
 

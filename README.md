@@ -27,6 +27,7 @@ The project pursues to estimate the impact of the transition into **RETIREMENT**
 ## Contents
  - developing the [analytic strategy](architecture/analytic_strategy.md)  
  - developing the [conceptual models of retirement](reports/conceptual_models_retirement.md)  
+ - review communication [log](./log.md)
  
  
 ## Background

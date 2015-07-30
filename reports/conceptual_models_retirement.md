@@ -27,14 +27,14 @@ I suggest we look at a few conceptualization before we settle on the one that wi
 ## A6 
 
 The research question distinguishes 3 major relationship with the workforce an idividual may have:   
- - employed  (EM)  
- - unemployed (UN)   
- - outside of workforce (OW)    
+> - employed  (EM)  
+> - unemployed (UN)   
+> - outside of workforce (OW)    
  
 As people in these categories progress through life, they may start identifying themselves or be classified as "retired", a somewhat loose lable, implying some combination of age, health, and financial circumstances. In order to address the research question it is not sufficient to know whether the person has retired or not: the dynamics of the relationship with the workforce prior to "retirement" forms the basis of comparing cognitive, physical, and well-being trajectories. In light of this we may think of these retireers as qualitatively different, depending on what relationship with the workforce they had in the past:
- - retired from being employed (rEM)  
- - retired from being unemployed (rUM)  
- - retired from being outside workforce (rOW)   
+> - retired from being employed (rEM)  
+> - retired from being unemployed (rUM)  
+> - retired from being outside workforce (rOW)   
  
  This gives us s6x mutually exclusive categories that exhaustively describe individual's relationship with workfoce in time. Using diagrammatic expression we can depict a person's retirement trajectory in the following way:
  ![retirement trajectory](../libs/materials/visual_concepts/retire_concept_traj1.png)
