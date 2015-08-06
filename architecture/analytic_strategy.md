@@ -39,6 +39,6 @@ The system of dynamic reporting will allow us to explore these possibilities wit
 
 Conceptualizing retirement  as transitions among defined categories is explored in the report [conceptual models of retirement](../reports/conceptual_models_retirement.md)  
 
-Basic data preparation of [RAND HRS files](https://github.com/IALSA/HRS/tree/master/data) is traced in a dedicated repository.  
+Basic data preparation of [RAND HRS files](https://github.com/IALSA/HRS/tree/master/Data) is traced in a dedicated repository.  
 
 
