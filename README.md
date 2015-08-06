@@ -16,7 +16,7 @@ The project pursues to estimate the impact of the transition into **RETIREMENT**
 | [GAZEL](link) | [Singh-Manoux](mailto:email) |
 | [GSOEP](link) | [Name](mailto:email) |
 | [LASA](link) | [Name](mailto:email) |
-| [Whitehall II]() [Mika Kivimaki](mailto:m.kivimaki@ucl.ac.uk) 
+| [Whitehall II]() | [Mika Kivimaki](mailto:m.kivimaki@ucl.ac.uk) |
 | [study](link) | [Name](mailto:email) |
 
 ## News & Announcements
